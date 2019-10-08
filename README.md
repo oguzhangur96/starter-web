@@ -1,7 +1,7 @@
-# Starter Web Repo
+#oguzun deneme raposu
 
-This repository is for showing how Git and GitHub work
+denemedir
 
-## Purpose
+## Amaç amaç
 
-Sample website with plenty of files for demos
+denemedir bu bir denemedir
