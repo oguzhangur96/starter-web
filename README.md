@@ -1,6 +1,6 @@
 # oguzun deneme raposu
 
-denemedir
+This is a simple example to use git and github.
 
 ## Amaç amaç
 
