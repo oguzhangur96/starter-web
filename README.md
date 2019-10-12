@@ -1,6 +1,6 @@
 # oguzun deneme raposu
 
-This is a simple example to use git and github.
+This is a simple example to use git and github. Adding a text for rebasing example.
 
 ## Amaç amaç
 
