@@ -10,3 +10,6 @@ Add more text
 Add mmore text v3
 Add mmore text v5
 Add mmore text v6
+
+## copyright
+By Oguzhan Gur
