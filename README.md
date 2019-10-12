@@ -1,6 +1,6 @@
 # oguzun deneme raposu
 
-This is a simple example to use git and github. Adding a text for rebasing example.
+This is a simple example to use git and github. Adding a text for rebasing example. More changes from feature branch.
 
 ## Amaç amaç
 
