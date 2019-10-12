@@ -13,3 +13,6 @@ Add mmore text v6
 
 ## copyright
 By Oguzhan Gur
+
+## How to contribute
+Please fork this repo and issue pull request for rewiev.
