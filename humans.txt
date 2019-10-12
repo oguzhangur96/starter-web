@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> oguzhan gur  <role> jack <twitter>
 
 # THANKS
 
