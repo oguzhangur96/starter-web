@@ -8,6 +8,7 @@
 # THANKS
 
     <name>To my family
+    To my girlfriend
 
 # TECHNOLOGY COLOPHON
 
