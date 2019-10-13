@@ -5,6 +5,7 @@ This is a simple example to use git and github. Adding a text for rebasing examp
 ## Amaç amaç
 
 Add more text
+Stash change
 
 ## deployment
 Add mmore text v3
